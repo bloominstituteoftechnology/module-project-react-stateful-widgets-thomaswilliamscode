@@ -62,7 +62,6 @@ export default function Input() {
     marginBottom: '0.3em',
     color: color /* STEP 2 */
   };
-  console.log(color)
 
   return (
 		<div className='widget-input container'>
